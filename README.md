@@ -4,7 +4,7 @@
 
 2. By using K-means clustering, customers with similar behaviour have been segregated into clusters/groups.
 
-3. Upon the results, summaries/conlusions have been drawn in order to help devise betteer marketing strategies.
+3. Upon the results, summaries/conclusions have been drawn in order to help devise better marketing strategies.
 
 4. Screenshot (3d) of the clusters formed from the datasets -
 
